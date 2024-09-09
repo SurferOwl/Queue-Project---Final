@@ -1,0 +1,25 @@
+Current time: 0
+Queue0: 
+Queue1: 
+Current time: 1
+Queue0: 
+Queue1: 
+Current time: 2
+Queue0: 
+Queue1: 
+Client arrived: Clients{ID=0, arrivalTime=3, serviceTime=2}
+Client arrived: Clients{ID=1, arrivalTime=3, serviceTime=3}
+Current time: 3
+Queue0: 
+Clients{ID=0, arrivalTime=3, serviceTime=2}
+Queue1: 
+Clients{ID=1, arrivalTime=3, serviceTime=3}
+Current time: 4
+Queue0: 
+Clients{ID=0, arrivalTime=3, serviceTime=1}
+Queue1: 
+Clients{ID=1, arrivalTime=3, serviceTime=2}
+Current time: 5
+Queue0: 
+Queue1: 
+Clients{ID=1, arrivalTime=3, serviceTime=1}
